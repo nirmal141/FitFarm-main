@@ -78,8 +78,13 @@ prediction, ensemble techniques can offer a
 comprehensive view of suitable crops based on diverse
 algorithms.
 
+
+
 * Multiple Linear Regression (MLR): MLR is utilized for
 rainfall forecasting. It can establish relationships
 between various environmental factors and rainfall,
 aiding in weather prediction.
+
+![fitfarm](https://github.com/nirmal141/FitFarm-main/assets/90636906/919ba85f-274e-4b3b-a3d3-3ce54d4b5920)
+
 
